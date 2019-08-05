@@ -1,0 +1,11 @@
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\Dev Note 01\Desktop\hiago\pro4\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
